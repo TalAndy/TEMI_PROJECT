@@ -1,0 +1,9 @@
+contact_id,contact_f_name,contact_l_name,contact_phone,contact_mail,contact_patient,contact_priotirty
+1,niv ,b,2,nivbdbd@gmail.com,1,1
+2,tal,c,2,nivbdbd@gmail.com,1,1
+3,or,d,3,nivbdbd@gmail.com,2,1
+4,omar,e,2,,3,1
+5,gilad,w,4,,4,1
+6,beni,s,2,,3,1
+7,tal,a,4,,3,0
+8,eden,a,3,,4,1
